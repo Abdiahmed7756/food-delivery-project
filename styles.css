@@ -3,9 +3,18 @@ h1 {
 }
 .navlinks {
 display: inline-block;
-padding:
+padding:0px 20px;
 }
-
+.navlinks li a:hover{
+color:pink;
+}
+.fruits li {
+    display: inline block;
+    color:rgb(30, 56, 173);
+}
+img {
+    display: inline;
+}
 
 
     
