@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(168, 96, 44);
+}
+h1 {
+    color:rgb(241, 241, 250)
+}
+.navlinks {
+display: inline-block;
+padding:0px 20px;
+color:white;
+}
+.navlinks li a:hover{
+color:rgb(243, 233, 235);
+background-color: darkcyan;
+display: inline block;
+}
+.fruits li {
+    display: inline block;
+    color:rgb(30, 56, 173);
+}
+img {
+    display: inline;
+}
+
+
+    
