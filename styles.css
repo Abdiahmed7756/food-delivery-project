@@ -1,5 +1,8 @@
+* {
+    background-color: rgb(168, 96, 44);
+}
 h1 {
-    color:blue
+    color:rgb(241, 241, 250)
 }
 .navlinks {
 display: inline-block;
