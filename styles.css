@@ -7,9 +7,12 @@ h1 {
 .navlinks {
 display: inline-block;
 padding:0px 20px;
+color:white;
 }
 .navlinks li a:hover{
-color:pink;
+color:rgb(243, 233, 235);
+background-color: darkcyan;
+display: inline block;
 }
 .fruits li {
     display: inline block;
