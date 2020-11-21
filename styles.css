@@ -5,7 +5,7 @@ body{
 /* Add a black background color to the top navigation */
 .topnav {
     background-color:blue;
-    overflow: hidden;
+    overflow: hidden; 
   }
   
   /* Style the links inside the navigation bar */
@@ -55,3 +55,11 @@ body{
   .table,td{
     border: 1px solid brown;
   } 
+  .footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:blue;
+    color: white;
+    text-align: center;
+  }
